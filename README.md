@@ -1,38 +1,94 @@
-# Hi, I'm Shourya Jha 👋
+# Hey there! I'm Shourya Jha 👋
 
-**Founder & CEO @ Nelieo AI** | **Co-Founder @ TriuneX** | **AI Systems Architect** | **ML Engineer**
-
-Building the future of **self-evolving AI Operating Systems** and intelligent agent architectures. Passionate about multi-agent systems, vision-based automation, neuroscience-inspired AI, and autonomous intelligence that transforms human-AI interaction.
-
-🔬 **Current Focus**: Architecting Nelieo AIRU (AI Research Unit) — designing cognitive architectures (Aetherion) with modular micro-minds, recursive routing, and energy-aware objective functions.
+**🚀 Founder & CEO @ Nelieo AI** | **Co-Founder @ TriuneX** | **AI Systems Architect** | **Researcher & Engineer**
 
 ---
 
-### 🧠 Core Expertise
+## 🎯 Mission: Building the Future of AI through Revolutionary Architecture
 
-**AI & Machine Learning**
-- Multi-agent AI systems orchestration
-- Deep learning & neural architecture design
-- Vision language models (Florence 2, MoonDream, GPT-4o mini)
-- Natural language processing & understanding
-- Generative AI & large language models
-- Computer vision & image processing
-- Neuroscience-inspired AI algorithms
-- Distributed machine learning systems
+I'm architecting the **next generation of AI systems** that are fundamentally different from everything that exists today. My focus is on creating **efficient, cost-effective, and powerful AI models** that will power the future of Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
 
-**Backend & Systems**
-- Containerized VM-based AI agents
-- Microservices architecture
-- Cloud-native systems (AWS, GCP)
-- Distributed computing & orchestration
-- REST APIs & gRPC services
-- Database optimization (SQL & NoSQL)
+### 🏗️ What We're Building at Nelieo
+
+**The new type of AI architecture** designed to address the fundamental problems in current AI systems:
+
+- **Making AI models cheaper to build, train, and deploy** - Revolutionary efficiency in architecture design
+- **Eliminating computational redundancy** - Optimizing every parameter and operation
+- **Building truly autonomous, self-evolving systems** - AI that learns and improves itself
+- **Designing the foundation for AGI & ASI** - Creating the blueprint for superintelligent systems
+
+Nelieo isn't just another AI company. We're **redefining how AI architectures should be built** from the ground up.
 
 ---
 
-### 🛠 Tech Stack
+## 🧬 Nelieo AIRU: AI Research Unit
 
-#### Programming Languages
+Leading the development of **Nelieo's AI Research Unit (AIRU)** where we're pushing the boundaries of artificial intelligence:
+
+- **Architecting multi-agent systems** that coordinate seamlessly
+- **Designing cognitive architectures** inspired by neuroscience and computational theory
+- **Building distributed intelligence systems** that scale efficiently
+- **Creating self-improving AI agents** with autonomous learning capabilities
+- **Researching the foundations of AGI/ASI** - The theoretical and practical frameworks
+
+---
+
+## 🔬 Aetherion: The Ultimate AI Architecture
+
+**3+ years of deep research and development** into creating the most efficient and powerful AI architecture possible.
+
+### Core Innovations:
+
+✨ **Modular Micro-Minds Architecture**
+- Independent yet coordinated intelligent units
+- Recursive routing for optimal information flow
+- Dynamic task allocation and specialization
+
+⚡ **Energy-Aware Objective Function**
+- Mathematical formula: `J = Loss + λΦ − μE`
+- Optimizing for both accuracy AND efficiency
+- Designing intelligence through STRUCTURE, not just scale
+
+🧠 **Neurogenesis-Inspired Learning**
+- Biological efficiency principles applied to AI
+- Dynamic network growth and adaptation
+- Self-organizing intelligence
+
+🎯 **Self-Improving Systems**
+- Architectures that optimize themselves
+- Continuous learning and architectural evolution
+- Autonomous improvement mechanisms
+
+**Aetherion represents the bridge between current AI and true AGI/ASI** - a fundamentally different approach to building intelligent systems.
+
+---
+
+## 📊 My Track Record
+
+### 🤖 Machine Learning & AI Projects: 10+
+
+Deep learning models, neural architecture design, computer vision, NLP systems, generative AI, multi-agent frameworks, and cutting-edge AI research.
+
+### 🌐 Web & Backend Projects: 30+
+
+Full-stack applications, distributed systems, cloud infrastructure, scalable APIs, microservices architectures, and real-time systems.
+
+### 🔧 System-Level Products: 8+
+
+Including our own **private infrastructure** that rivals or exceeds public alternatives:
+
+- **Private GitHub-like System** - Custom version control that's more reliable, secure, and performant
+- **Infrastructure Tools** - Tailored for high-performance AI development
+- **Distributed Computing Platforms** - Built for large-scale AI training
+- **Security & Privacy Systems** - Enterprise-grade security
+
+Our proprietary systems aren't public because they're **optimized for our specific needs** and represent years of engineering expertise.
+
+---
+
+## 🛠 Tech Stack & Expertise
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,7 +96,7 @@ Building the future of **self-evolving AI Operating Systems** and intelligent ag
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### ML & AI Frameworks
+### ML & AI Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -48,12 +104,12 @@ Building the future of **self-evolving AI Operating Systems** and intelligent ag
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Anthropic](https://img.shields.io/badge/Anthropic-5E21B6?style=for-the-badge)
 
-#### Computer Vision & Processing
+### Computer Vision & Processing
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
 ![Scikit--image](https://img.shields.io/badge/Scikit%20Image-F7931E?style=for-the-badge)
 
-#### Cloud & DevOps
+### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -61,21 +117,21 @@ Building the future of **self-evolving AI Operating Systems** and intelligent ag
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-#### Web & Backend Frameworks
+### Web & Backend Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-#### Databases & Data Tools
+### Databases & Data Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### Tools & Utilities
+### Tools & Utilities
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -84,28 +140,37 @@ Building the future of **self-evolving AI Operating Systems** and intelligent ag
 
 ---
 
-### 🎯 Key Projects & Focus Areas
+## 🧠 Core Expertise & Knowledge Areas
 
-**Nelieo: Self-Evolving AI Operating System**
-- Building an AI native OS that orchestrates intelligent agents
-- Multi-agent architecture with self-replicating intelligence
-- Advanced NLP, distributed systems, and cloud infrastructure
-- Vision: Creating an intelligent workforce that transforms human-AI interaction
+### AI & Machine Learning
+- **Multi-agent AI systems orchestration** - Coordinating distributed intelligent agents
+- **Deep learning & neural architecture design** - Creating efficient model architectures
+- **Vision language models** - Florence 2, MoonDream, GPT-4o mini
+- **Natural language processing & understanding** - Advanced NLP systems
+- **Generative AI & large language models** - Building and fine-tuning LLMs
+- **Computer vision & image processing** - Vision-based AI systems
+- **Neuroscience-inspired AI algorithms** - Biology-inspired computing
+- **Distributed machine learning systems** - Training at scale
+- **Agentic AI & autonomous reasoning** - Self-directed AI systems
 
-**TriuneX: Advanced Automation & AI Integration**
-- Co-founded AI automation platform
-- Screenshot-based UI automation with vision models
-- Containerized agent execution environments
+### Backend & Systems Architecture
+- **Containerized VM-based AI agents** - Isolated, secure execution
+- **Microservices architecture** - Scalable system design
+- **Cloud-native systems** - AWS, GCP infrastructure
+- **Distributed computing & orchestration** - Large-scale systems
+- **REST APIs & gRPC services** - High-performance communication
+- **Database optimization** - SQL & NoSQL systems
+- **System-level optimization** - Performance at every layer
 
-**Aetherion Cognitive Architecture** (Nelieo AIRU)
-- Modular micro-minds with recursive routing
-- Neurogenesis-inspired learning mechanisms
-- Energy-aware objective function: J = Loss + λΦ − μE
-- Designing intelligence through structure rather than scale
+### Product & Strategy
+- **Product management** - Taking ideas from concept to market
+- **Startup growth** - Building companies from ground up
+- **Strategic planning** - Long-term vision and execution
+- **Team building & leadership** - Creating high-performing teams
 
 ---
 
-### 📚 Currently Learning & Exploring
+## 📚 Currently Researching & Exploring
 
 - 🧬 Neuroscience-inspired neural architectures
 - 🔗 Multi-agent coordination & swarm intelligence
@@ -115,35 +180,27 @@ Building the future of **self-evolving AI Operating Systems** and intelligent ag
 - ⚡ Energy-efficient AI architectures
 - 🧠 Artificial Neural Networks & deep learning theory
 - 🌐 Generative AI applications at scale
+- 🏗️ Foundations of AGI & ASI
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-**Founder & CEO @ Nelieo** (May 2025 - Present)
-- Leading development of self-evolving AI OS
-- Architecting multi-agent AI systems
-- Managing product strategy & go-to-market
-- Building partnerships with early adopters
+### **Founder & CEO @ Nelieo** (May 2025 - Present)
+- Leading the development of the world's first **self-evolving AI Operating System**
+- Architecting revolutionary multi-agent AI systems
+- Designing Aetherion - the ultimate AI architecture for AGI/ASI
+- Managing product strategy, go-to-market, and partnerships
+- Building the future of efficient, autonomous AI
 
-**Co-Founder @ TriuneX** (Sep 2024 - Feb 2025)
-- Built AI automation platform
-- Developed screenshot-based automation engine
-- Managed full-stack from concept to launch
-
----
-
-### 🎓 Skills
-
-**Core Competencies**
-- Neuroscience | Artificial Neural Networks | Deep Learning
-- Machine Learning | Computer Vision | NLP | GenAI
-- System Architecture | Distributed Systems | Cloud Infrastructure
-- Product Management | Startup Growth | Strategic Planning
+### **Co-Founder @ TriuneX** (Sep 2024 - Feb 2025)
+- Built AI automation platform with screenshot-based UI automation
+- Developed containerized agent execution environments
+- Managed full-stack development from concept to launch
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 - **LinkedIn**: [shourya-jha-5bbb7a301](https://www.linkedin.com/in/shourya-jha-5bbb7a301/)
 - **Email**: shourya@nelieo.com
@@ -152,15 +209,29 @@ Building the future of **self-evolving AI Operating Systems** and intelligent ag
 
 ---
 
-### 📊 Stats
+## 📊 Impact & Vision
 
 ```
-474+ LinkedIn Followers | Founder of AI Systems | Leading Project Elysium
-Building the future of intelligent automation & self-evolving AI
+474+ LinkedIn Followers | Founder of Revolutionary AI Systems
+Leading the research into efficient, cost-effective, and powerful AI
+Building the foundation for Artificial General & Super Intelligence
+Making AI accessible, efficient, and truly autonomous
 ```
 
 ---
 
-_(Most of my cutting-edge work is proprietary to Nelieo and TriuneX. For demos, technical discussions, or collaboration opportunities, reach out directly!)_
+## 🚀 The Future
 
-**Exploring**: How can we build AI that doesn't just assist, but evolves and learns autonomously?
+**The current AI landscape is inefficient.**
+
+Large models trained on massive compute, costing billions, solving generalized problems. We're changing that.
+
+At Nelieo, we're building **architectures that are smarter by design, not by brute force**. Where efficiency and power aren't trade-offs - they're synergies.
+
+**Aetherion isn't just another neural network.** It's a fundamental rethinking of how intelligence should be structured. It's what comes after Transformers. It's the architecture for AGI.
+
+---
+
+_(The most cutting-edge work happens in private repositories and proprietary systems. For technical discussions, demonstrations of Aetherion research, collaboration opportunities, or investment inquiries, reach out directly.)_
+
+**Exploring the question:** How do we build AI that doesn't just match human intelligence, but fundamentally surpasses it through architectural innovation?
