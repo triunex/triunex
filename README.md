@@ -1,14 +1,14 @@
 # Hey there! I'm Shourya Jha 👋
 
-**🚀 Founder & CEO @ Nelieo AI** | **Co-Founder @ TriuneX** | **AI Systems Architect** | **Researcher & Engineer**
+**Founder & CEO @ Nelieo AI** | ** Previously Co-Founded TriuneX** | **AI Systems Architect** | **Researcher & Engineer**
 
 ---
 
-## 🎯 Mission: Building the Future of AI through Revolutionary Architecture
+## Mission: Building the Future of AI through Revolutionary Architecture
 
 I'm architecting the **next generation of AI systems** that are fundamentally different from everything that exists today. My focus is on creating **efficient, cost-effective, and powerful AI models** that will power the future of Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
 
-### 🏗️ What We're Building at Nelieo
+### What We're Building at Nelieo
 
 **The new type of AI architecture** designed to address the fundamental problems in current AI systems:
 
@@ -21,7 +21,7 @@ Nelieo isn't just another AI company. We're **redefining how AI architectures sh
 
 ---
 
-## 🧬 Nelieo AIRU: AI Research Unit
+## Nelieo AIRU: AI Research Unit
 
 Leading the development of **Nelieo's AI Research Unit (AIRU)** where we're pushing the boundaries of artificial intelligence:
 
@@ -33,28 +33,28 @@ Leading the development of **Nelieo's AI Research Unit (AIRU)** where we're push
 
 ---
 
-## 🔬 Aetherion: The Ultimate AI Architecture
+## Aetherion: The Ultimate AI Architecture
 
 **3+ years of deep research and development** into creating the most efficient and powerful AI architecture possible.
 
 ### Core Innovations:
 
-✨ **Modular Micro-Minds Architecture**
+ **Modular Micro-Minds Architecture**
 - Independent yet coordinated intelligent units
 - Recursive routing for optimal information flow
 - Dynamic task allocation and specialization
 
-⚡ **Energy-Aware Objective Function**
+ **Energy-Aware Objective Function**
 - Mathematical formula: `J = Loss + λΦ − μE`
 - Optimizing for both accuracy AND efficiency
 - Designing intelligence through STRUCTURE, not just scale
 
-🧠 **Neurogenesis-Inspired Learning**
+ **Neurogenesis-Inspired Learning**
 - Biological efficiency principles applied to AI
 - Dynamic network growth and adaptation
 - Self-organizing intelligence
 
-🎯 **Self-Improving Systems**
+ **Self-Improving Systems**
 - Architectures that optimize themselves
 - Continuous learning and architectural evolution
 - Autonomous improvement mechanisms
@@ -63,17 +63,17 @@ Leading the development of **Nelieo's AI Research Unit (AIRU)** where we're push
 
 ---
 
-## 📊 My Track Record
+## My Track Record
 
-### 🤖 Machine Learning & AI Projects: 10+
+### Machine Learning & AI Projects: 10+
 
 Deep learning models, neural architecture design, computer vision, NLP systems, generative AI, multi-agent frameworks, and cutting-edge AI research.
 
-### 🌐 Web & Backend Projects: 30+
+### Web & Backend Projects: 30+
 
 Full-stack applications, distributed systems, cloud infrastructure, scalable APIs, microservices architectures, and real-time systems.
 
-### 🔧 System-Level Products: 8+
+### System-Level Products: 8+
 
 Including our own **private infrastructure** that rivals or exceeds public alternatives:
 
@@ -86,7 +86,7 @@ Our proprietary systems aren't public because they're **optimized for our specif
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## Tech Stack & Expertise
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -140,7 +140,7 @@ Our proprietary systems aren't public because they're **optimized for our specif
 
 ---
 
-## 🧠 Core Expertise & Knowledge Areas
+## Core Expertise & Knowledge Areas
 
 ### AI & Machine Learning
 - **Multi-agent AI systems orchestration** - Coordinating distributed intelligent agents
@@ -170,21 +170,21 @@ Our proprietary systems aren't public because they're **optimized for our specif
 
 ---
 
-## 📚 Currently Researching & Exploring
+##  Currently Researching & Exploring
 
-- 🧬 Neuroscience-inspired neural architectures
-- 🔗 Multi-agent coordination & swarm intelligence
-- 📊 Advanced distributed systems patterns
-- 🎯 Agentic AI frameworks & autonomous reasoning
-- 🔍 Vision transformers & multimodal AI systems
-- ⚡ Energy-efficient AI architectures
-- 🧠 Artificial Neural Networks & deep learning theory
-- 🌐 Generative AI applications at scale
-- 🏗️ Foundations of AGI & ASI
+-  Neuroscience-inspired neural architectures
+-  Multi-agent coordination & swarm intelligence
+-  Advanced distributed systems patterns
+-  Agentic AI frameworks & autonomous reasoning
+-  Vision transformers & multimodal AI systems
+-  Energy-efficient AI architectures
+-  Artificial Neural Networks & deep learning theory
+-  Generative AI applications at scale
+-  Foundations of AGI & ASI
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### **Founder & CEO @ Nelieo** (May 2025 - Present)
 - Leading the development of the world's first **self-evolving AI Operating System**
@@ -193,23 +193,23 @@ Our proprietary systems aren't public because they're **optimized for our specif
 - Managing product strategy, go-to-market, and partnerships
 - Building the future of efficient, autonomous AI
 
-### **Co-Founder @ TriuneX** (Sep 2024 - Feb 2025)
+### **Previously Co-Founded TriuneX** (Sep 2024 - Feb 2025)
 - Built AI automation platform with screenshot-based UI automation
 - Developed containerized agent execution environments
 - Managed full-stack development from concept to launch
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 - **LinkedIn**: [shourya-jha-5bbb7a301](https://www.linkedin.com/in/shourya-jha-5bbb7a301/)
-- **Email**: shourya@nelieo.com
+- **Email**: triunex.work@gmail.com
 - **Company**: [Nelieo.com](https://nelieo.com)
 - **Location**: San Francisco Bay Area
 
 ---
 
-## 📊 Impact & Vision
+## Impact & Vision
 
 ```
 474+ LinkedIn Followers | Founder of Revolutionary AI Systems
@@ -220,7 +220,7 @@ Making AI accessible, efficient, and truly autonomous
 
 ---
 
-## 🚀 The Future
+## The Future
 
 **The current AI landscape is inefficient.**
 
