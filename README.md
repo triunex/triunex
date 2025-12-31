@@ -23,7 +23,7 @@ Nelieo isn't just another AI company. We're **redefining how AI architectures sh
 
 ## Nelieo AIRU: AI Research Unit
 
-Leading the development of **Nelieo's AI Research Unit (AIRU)** where we're pushing the boundaries of artificial intelligence:
+Leading the development of **Nelieo's Advanced Intelligence Research Unit (AIRU)** where we're pushing the boundaries of artificial intelligence:
 
 - **Architecting multi-agent systems** that coordinate seamlessly
 - **Designing cognitive architectures** inspired by neuroscience and computational theory
