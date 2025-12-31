@@ -1,6 +1,6 @@
 # Hey there! I'm Shourya Jha 👋
 
-**Founder & CEO @ Nelieo AI** | ** Previously Co-Founded TriuneX** | **AI Systems Architect** | **Researcher & Engineer**
+**Founder & CEO @ Nelieo AI** |**Previously Co-Founded TriuneX**| **AI Systems Architect** | **Researcher & Engineer**
 
 ---
 
