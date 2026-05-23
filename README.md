@@ -1,4 +1,4 @@
-Just a compiler Guy trying to build AGI.
+Just a compiler Guy trying to build SuperIntelliegence.
 
 $ whoami
 > researcher, systems architect, builder.
